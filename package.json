@@ -10,26 +10,26 @@
     "dev-server": "webpack-dev-server"
   },
   "dependencies": {
-    "@babel/cli": "^7.10.3",
-    "@babel/core": "^7.10.3",
-    "@babel/plugin-proposal-class-properties": "^7.10.1",
-    "@babel/preset-env": "^7.10.3",
-    "@babel/preset-react": "^7.10.1",
-    "babel-loader": "^8.1.0",
-    "css-loader": "^3.6.0",
-    "live-server": "^1.2.0",
-    "node-sass": "^4.14.1",
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.0.1",
+    "live-server": "^1.2.1",
+    "node-sass": "^5.0.0",
     "normalize.css": "^8.0.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-modal": "^3.11.2",
-    "sass-loader": "^8.0.2",
-    "style-loader": "^1.2.1",
-    "validator": "^13.1.1",
-    "webpack": "^4.43.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-modal": "^3.12.1",
+    "sass-loader": "^10.1.0",
+    "style-loader": "^2.0.0",
+    "validator": "^13.5.2",
+    "webpack": "^5.10.3",
     "webpack-dev-server": "^3.11.0"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.12"
+    "webpack-cli": "^4.2.0"
   }
 }
